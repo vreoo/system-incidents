@@ -1,6 +1,6 @@
 **Title:** Interrupted Fedora upgrade + DKMS Realtek driver -> `Exec format error` on kernel 6.17.13 (rtw8822ce)
 
-**Date:** [fill timestamp]
+**Date:** 2026-01-03
 
 **Systems impacted:** Laptop (Wi‑Fi), briefly sound and brightness on some kernels
 
